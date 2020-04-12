@@ -9,3 +9,5 @@ bound-to-continuum transitions as well. These contributions are also considered 
 The computation of the bound and free state Coulomb wavefunction is based on:
 "A Fortran program to calculate the matrix elements of the Coulomb interaction involving hydrogenic wave functions",
 L. Sarkadi, Computer Physics Communications, 133, (2000), 119–127
+
+Run compile.sh for compilation and for running:
