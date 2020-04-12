@@ -1,7 +1,7 @@
 # Hydrogen_polarizability_and_vdW_energy
 The purpose of this code is to compute the polarizability of the Hydrogen atom and the van der Waals energy of a H-H dimer.
 
-Second order perturbation theory is utilized to compuet these quantities.
+Second order perturbation theory is utilized to compute these quantities.
 
 The polarizability (and also the vdW energy) has a contribution from the bound-to-bound transitions and from the
 bound-to-continuum transitions as well. These contributions are also considered separately and printed as output.
