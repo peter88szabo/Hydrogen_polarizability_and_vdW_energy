@@ -1,0 +1,5 @@
+      32   1.0   0   1                  Nmax, Z, Lb, Lf
+      0.0   30.0   0.01                 rmin,rmax,dr
+      0.000002    1.60   0.0005   0.01  Emin,Emax,dE,Eprint
+      1.0   0                           umass, iscal
+
