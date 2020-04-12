@@ -10,4 +10,8 @@ The computation of the bound and free state Coulomb wavefunction is based on:
 "A Fortran program to calculate the matrix elements of the Coulomb interaction involving hydrogenic wave functions",
 L. Sarkadi, Computer Physics Communications, 133, (2000), 119–127
 
-Run compile.sh for compilation and for running:
+Run ./compile.sh for compilation and for running:
+
+./Hydrogen_vdW_version_3.x < input_1_okk_parameters.inp
+
+The code can be easily modified to compute the frequency dependent polarizability too.
